@@ -10,3 +10,8 @@ Como tecnologia para el desarrollo frontend se utiliza Angular JS.
 * filtado por nombre de producto
 * posibilidad de agregar productos al carrito
 * etc
+
+<p align="center">
+<img width="500" src="AngularEcommerce-java.gif" />
+
+</p>
